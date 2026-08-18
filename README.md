@@ -57,3 +57,6 @@ Never commit `.env` files, API keys, OAuth secrets, access tokens, or private cr
 ##  Disclaimer
 
 This project provides automated news aggregation and analysis for informational purposes only. It does not provide financial advice, investment recommendations, or buy/sell/hold signals.
+
+
+   <img width="1107" height="517" alt="NEPSE_newsletter wokflow" src="https://github.com/user-attachments/assets/ab97303b-f804-4b93-9b26-d4c34feb3cf3" />
